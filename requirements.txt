@@ -1,5 +1,4 @@
 streamlit
-streamlit-webrtc
 easyocr
 Pillow
 opencv-python-headless
